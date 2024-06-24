@@ -48,7 +48,7 @@ def load_data(city, month, day):
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 
-    print('\nCalculating The Most Frequent Times of Travel...\n')
+    print('\nCalculating The Most Frequent Times of Travel in 3 - 2 - 1...\n')
     start_time = time.time()
 
     # display the most common month
@@ -67,7 +67,7 @@ def time_stats(df):
 def station_stats(df):
     """Displays statistics on the most popular stations and trip."""
 
-    print('\nCalculating The Most Popular Stations and Trip...\n')
+    print('\nCalculating The Most Popular Stations and Trip in 3 - 2 - 1...\n')
     start_time = time.time()
 
     # display most commonly used start station
@@ -86,7 +86,7 @@ def station_stats(df):
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
 
-    print('\nCalculating Trip Duration...\n')
+    print('\nCalculating Trip Duration in 3 - 2 - 1...\n')
     start_time = time.time()
 
     # display total travel time
@@ -102,7 +102,7 @@ def trip_duration_stats(df):
 def user_stats(df):
     """Displays statistics on bikeshare users."""
 
-    print('\nCalculating User Stats...\n')
+    print('\nCalculating User Stats in 3 - 2 - 1...\n')
     start_time = time.time()
 
     # Display counts of user types
