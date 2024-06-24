@@ -7,7 +7,7 @@ June 24th 2024.
 Bikeshare information for Chicago, New York City and Washington DC.
 
 ### Description
-Bikeshare analyzes the bike sharing data on a month/day/city basis.
+Bikeshare analyzes the bike sharing data on a month/day for the selected city.
 
 ### Files used
 Main script to use is bikeshare_2.py.
